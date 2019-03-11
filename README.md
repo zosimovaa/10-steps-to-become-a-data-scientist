@@ -15,7 +15,7 @@
 1. [Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 1. [How to solve Problem?](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 1. [Machine Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
-1. [Deep Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
+1. [Deep Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 
 
 
