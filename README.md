@@ -22,7 +22,7 @@
 #  Introduction
 
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
-In this Repository, I want to review **10 skills** that are essentials to get the job
+In this Repository, I want to review **10 skills** that are essentials to get the job.
 
 In fact, this Repository is a reference for **10 other Notebooks**, which you can learn with them,  all of the skills that you need.
 # 1-Python
@@ -255,8 +255,10 @@ If you use my code in your research, please cite this project.
 
  **Have Fun!**
  
-> ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
- 
-> ###### 2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
+> ###### 1. Follow us On :
 
-> ###### 3. Follow me On [linkedin](https://www.linkedin.com/company/irmatlab/)
+[GitHub](https://github.com/mjbahmani/)
+ 
+[Kaggle](https://www.kaggle.com/mjbahmani)
+
+[linkedin](https://www.linkedin.com/company/irmatlab/)
