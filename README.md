@@ -229,9 +229,9 @@ for Reading this section **please** fork   this kernel:
 <img src='https://cdn-images-1.medium.com/max/800/1*dYjDEI0mLpsCOySKUuX1VA.png'>
 ---------------------------------------------------------------------
 
-# Help
+# Do You Need Help?
 
-I hope you have enjoyed reading my python notebook.
+I hope you have enjoyed reading my python notebooks.
 
 If you have any problem and question to run notebook please open an issue here in GitHub.
 
