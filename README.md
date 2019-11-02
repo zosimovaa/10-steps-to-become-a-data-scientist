@@ -59,7 +59,7 @@ You can read and learn following topic on this Notebook:
 
 for Reading this section **please** fork this kernel:
 
-[numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
+[numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/1-python)
 
 # 2-Python Packages
 
@@ -179,7 +179,7 @@ In this Step, we have a **comprehensive tutorials** for Five packages in python 
  
 for Reading this section **please** fork this kernel:
 
-[numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
+[numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/2-python%20packages)
 
 ##  3- Mathematics and Linear Algebra
 
@@ -191,13 +191,13 @@ for Reading this section **please** fork this kernel:
 
 for Reading this section **please** fork and upvote this kernel:
 
-[Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/4-Programming%20%26%20Analysis%20Tools/Top%205%20Deep%20Learning%20Frameworks%20Tutorial/Top%205%20Deep%20Learning%20Frameworks%20Tutorial.ipynb)
+[Programming & Analysis Tools](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/4-Programming%20%26%20Analysis%20Tools)
 
 ## 5- Big Data
 
 for Reading this section **please** fork this kernel:
 
-[A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
+[A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/5-%20Big%20Data)
 ## 6- Data Visualization
 
 for Reading this section **please** fork this kernel:
