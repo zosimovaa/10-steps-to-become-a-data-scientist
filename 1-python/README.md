@@ -1,5 +1,6 @@
 # Learn python
-This a comprehensive python guide in Jupyter notebook
+This a comprehensive python guide in Jupyter notebook.
+When you want to become a data scientist, the first step is start learning a programming language, surely python and R are the best choice. In this step, you will learn PYTHON! :)
 ## Notebook Content
 •	Import
 <br>
